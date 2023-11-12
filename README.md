@@ -1,6 +1,6 @@
 ### EPub-Optimizer
 
-Improve your EPub experience with faster page turning on any device, including E-Inks. Streamline your EPub files by significantly reducing their size. A lighter EPub leads to quicker page turns, making your reading more seamless.
+Improve your EPub experience with faster page turning on any device, including E-Ink ones. Streamline your EPub files by significantly reducing their size. A lighter EPub leads to quicker page turns, making your reading more seamless.
 
 ### Usage:
 

@@ -4,7 +4,7 @@ Improve your EPub experience with faster page turning on any device, including E
 
 ### Usage:
 
-1. Download the tool (900 MB compressed, 130 MB download).
+1. Download the tool (900 MB compressed, 100 MB download).
 2. Extract and keep the "data" folder unchanged.
 3. Run "Optimise.bat" by dragging and dropping the EPub file onto it.
 

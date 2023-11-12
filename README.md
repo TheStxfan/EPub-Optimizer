@@ -45,7 +45,7 @@ Customize settings by editing the batch file:
      set "path_on_device=Downloads"
      ```
    - Set "send_to_eink=1" to enable sending the optimized EPub to an E-Ink device.
-   - Set "device_label=Tolino" with the label of your E-Ink device found in File Explorer.
+   - Set "device_label=Tolino" with the label of your E-Ink device found in "This PC" section in the File Explorer. Modify it as needed, just ensure it's not already in use from another device.
    - Set "path_on_device=Downloads" for the destination path on the device.
 
 Save the file, and with these new settings, the EPub-Optimizer will automatically send the optimized EPub to the specified E-Ink device, enhancing your reading experience with faster page turns.

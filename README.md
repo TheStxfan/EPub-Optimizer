@@ -50,7 +50,7 @@ Customize settings by editing the batch file:
 
 Save the file, and with these new settings, the EPub-Optimizer will automatically send the optimized EPub to the specified E-Ink device, enhancing your reading experience with faster page turns.
 
-3. **Background:**
+### Background:
 I embarked on creating this tool after searching for a solution online and finding none that effectively addressed the issue. Frustrated with the lack of options, I decided to develop the EPub-Optimizer to be the first to provide a practical and efficient solution.
 
 Enjoy effortless optimization!

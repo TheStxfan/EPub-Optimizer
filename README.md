@@ -53,4 +53,4 @@ Save the file, and with these new settings, the EPub-Optimizer will automaticall
 ### Background:
 I embarked on creating this tool after searching for a solution online and finding none that effectively addressed the issue. Frustrated with the lack of options, I decided to develop the EPub-Optimizer to be the first to provide a practical and efficient solution.
 
-Enjoy effortless optimization!
+Enjoy reading with effortless optimization!

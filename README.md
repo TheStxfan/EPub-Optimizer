@@ -22,7 +22,7 @@ Customize settings by editing the batch file:
         :: Set quality { 1 - 100 }:
         set "quality=35"
      ```
-   - Adjust the value of 'set "quality=35"' for optimal results. The default is 35% (recommended).
+   - Adjust the value of "quality=35" for optimal results. The default is 35% (recommended).
 
 2. **Color:**
    - Locate the lines:
@@ -30,7 +30,7 @@ Customize settings by editing the batch file:
         :: Set Color { Gray / RGB }:
         set "color=Gray"
      ```
-   - Opt for 'set "color=Gray"' for E-Ink devices, eliminating unnecessary color processing and improving speed.
+   - Opt for "color=Gray" for E-Ink devices, eliminating unnecessary color processing and improving speed.
 
 3. **Send to E-Ink:**
    - Locate the lines:
@@ -44,9 +44,9 @@ Customize settings by editing the batch file:
      :: Set path on device { ! Case sensitive ! }:
      set "path_on_device=Downloads"
      ```
-   - Set 'set "send_to_eink=1"' to enable sending the optimized EPub to an E-Ink device.
-   - Set 'set "device_label=Tolino"' with the label of your E-Ink device found in File Explorer.
-   - Set 'set "path_on_device=Downloads"' for the destination path on the device.
+   - Set "send_to_eink=1" to enable sending the optimized EPub to an E-Ink device.
+   - Set "device_label=Tolino" with the label of your E-Ink device found in File Explorer.
+   - Set "path_on_device=Downloads" for the destination path on the device.
 
 Save the file, and with these new settings, the EPub-Optimizer will automatically send the optimized EPub to the specified E-Ink device, enhancing your reading experience with faster page turns.
 

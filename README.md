@@ -36,7 +36,7 @@ Customize settings by editing the batch file:
    - Locate the lines:
      ```batch
      :: Set Send To E-Ink { 0 - 1 }:
-     set "send_to_eink=1"
+     set "send_to_eink=0"
 
      :: Set Device Label { Any }:
      set "device_label=Tolino"
